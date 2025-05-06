@@ -1,0 +1,33 @@
+# requisições HTTP, parsing e cores
+requests
+colorama
+packaging
+
+# interface gráfica
+customtkinter
+
+# análise de dados e ccxt
+ccxt
+pandas
+numpy
+
+# Binance connector
+binance-connector
+
+# WebSocket client
+websocket-client
+
+pytest>=7.0.0
+
+python-dotenv>=0.21.0
+
+python-telegram-bot>=20.0
+
+black>=23.1.0
+isort>=5.0.0
+
+flake8>=6.0.0
+
+python-dotenv>=0.21.0
+
+xgboost>=1.7.5
